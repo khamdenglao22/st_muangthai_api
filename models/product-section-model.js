@@ -58,7 +58,7 @@ const ProductSection = sequelize.define(
     },
   },
   {
-    tableName: "product-section",
+    tableName: "product_section",
     timestamps: false,
   }
 );

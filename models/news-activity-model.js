@@ -41,7 +41,7 @@ const News_Activity = sequelize.define('News_Activity', {
         defaultValue: true
     },
 }, {
-    tableName: "news-activity",
+    tableName: "news_activity",
     timestamps: false
 });
 

@@ -22,7 +22,7 @@ const News_Activity_Gallery = sequelize.define(
     },
   },
   {
-    tableName: "news-activity-gallery",
+    tableName: "news_activity_gallery",
     timestamps: false,
   }
 );

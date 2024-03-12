@@ -22,7 +22,7 @@ const ServiceSection = sequelize.define("ServiceSection", {
       },
   
 },{
-    tableName:"service-section",
+    tableName:"service_section",
     timestamps:false
 })
 

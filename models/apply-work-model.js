@@ -43,7 +43,7 @@ const Apply_Work = sequelize.define(
     },
   },
   {
-    tableName: "apply-work",
+    tableName: "apply_work",
     timestamps: false,
   }
 );

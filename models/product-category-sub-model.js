@@ -31,7 +31,7 @@ const ProductCategorySub = sequelize.define(
     },
   },
   {
-    tableName: "product-category-sub",
+    tableName: "product_category_sub",
     timestamps: false,
   }
 );

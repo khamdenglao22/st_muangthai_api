@@ -71,7 +71,7 @@ const ServiceLocation = sequelize.define(
     }
   },
   {
-    tableName: "service-location",
+    tableName: "service_location",
     timestamps: false,
   }
 );

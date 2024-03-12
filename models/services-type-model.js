@@ -19,7 +19,7 @@ const ServicesType = sequelize.define(
     },
   },
   {
-    tableName: "service-type",
+    tableName: "service_type",
     timestamps: false,
   }
 );

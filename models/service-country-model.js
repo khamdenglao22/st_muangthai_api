@@ -28,7 +28,7 @@ const ServiceCountry = sequelize.define(
     },
   },
   {
-    tableName: "service-country",
+    tableName: "service_country",
     timestamps: false,
   }
 );

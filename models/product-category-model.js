@@ -19,7 +19,7 @@ const ProductCategory = sequelize.define(
     },
   },
   {
-    tableName: "product-category",
+    tableName: "product_category",
     timestamps: false,
   }
 );

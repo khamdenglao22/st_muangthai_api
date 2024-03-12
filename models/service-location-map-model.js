@@ -42,7 +42,7 @@ const ServiceLocationMap = sequelize.define(
     },
   },
   {
-    tableName: "service-location-map",
+    tableName: "service_location_map",
     timestamps: false,
   }
 );

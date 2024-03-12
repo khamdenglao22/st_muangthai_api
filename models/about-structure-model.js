@@ -42,7 +42,7 @@ const AboutStructure = sequelize.define(
     },
   },
   {
-    tableName: "about-structure",
+    tableName: "about_structure",
     timestamps: false,
   }
 );
